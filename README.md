@@ -16,7 +16,9 @@ I enjoy reading works of poincare, Murray Gell-Mann, Norbert Wiener, Donella Mea
   
  2. <b>[Bismuth](https://github.com/JanhaviDadhania/bismuth)</b> extended memory[MEMEX]. An agent that manages my assistant agents, me and storage interaction. At any time there is always these three entities working; i interact with my agent to brainstorm, my agent queries my hard drive, i query hard drive. If left on its own, the system will get messier very quickly. Bismuth is an agent that optimises capturing of all ideas we produce and organises to improve recall-precision of retrieval.
 
+---
 
+find me on linkedin [![Static Badge](https://img.shields.io/badge/janhavi-dadhania?style=flat&logoColor=violet%20)](https://www.linkedin.com/in/janhavi-dadhania-485385166/) or join my newsletter if you share the interest in complex systems and AI.
 
 
 
