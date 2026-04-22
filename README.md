@@ -6,7 +6,7 @@ I am interested in understanding [deep neural networks from complex systemic len
 
 ## Reading
 
-I enjoy reading works of poincare, Murray Gell-Mann, Norbert Wiener, Donella Meadows, Ian Stewart. I write my thoughts on AI on [substack](https://substack.com/@janhavidadhania) and in my newsletter [The Mirror](https://janhavidadhania.github.io/theMirror/).  
+I enjoy reading works of poincare, Murray Gell-Mann, Norbert Wiener, Donella Meadows, Ian Stewart.   
 
 ## Writing
 I write @ [The Mirror](https://janhavidadhania.github.io/theMirror/). I copy all of my finished articles to my [substack](https://janhavidadhania.substack.com/?utm_campaign=profile_chips).  
