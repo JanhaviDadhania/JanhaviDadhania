@@ -19,7 +19,11 @@ The Mirror contains my finished and unfinished articles along with the raw mater
 
 ## Experiments i am running currently
 
- 1. <b>[Seldon](https://github.com/JanhaviDadhania/Seldon-The-external-brain)</b> graphical storage of memory with agents creating associative edges between nodes containing ideas.  
+ 1. <b>[Seldon](https://github.com/JanhaviDadhania/Seldon-The-external-brain)</b> graphical storage of memory with agents creating associative edges between nodes containing ideas.
+
+<img width="3868" height="1408" alt="seldon" src="https://github.com/user-attachments/assets/17e95450-04c3-4392-9354-4bc0657f33d2" />  
+
+<br>
   
  2. <b>[Bismuth](https://github.com/JanhaviDadhania/bismuth)</b> extended memory[MEMEX]. An agent that manages my assistant agents, me and storage interaction. At any time there is always these three entities working; i interact with my agent to brainstorm, my agent queries my hard drive, i query hard drive. If left on its own, the system will get messier very quickly. Bismuth is an agent that optimises capturing of all ideas we produce and organises to improve recall-precision of retrieval.
 
